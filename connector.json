@@ -1,0 +1,15 @@
+{
+  "name": "MAD COO Staging Preview",
+  "transport": "streamable_http",
+  "url": "${MAD_COO_MCP_URL}/mcp",
+  "authentication": "oauth",
+  "tools": [
+    "get_operating_context",
+    "probe_expected_plan_mismatch",
+    "review_customer_order",
+    "prepare_acknowledgement_draft",
+    "prepare_material_draft",
+    "propose_schedule",
+    "get_readiness_status"
+  ]
+}
