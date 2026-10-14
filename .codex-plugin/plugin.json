@@ -1,6 +1,6 @@
 {
   "name": "mad-coo-trusted-beta",
-  "version": "0.3.2-beta.2",
+  "version": "0.3.3-beta.1",
   "description": "MAD COO Staging Preview thin connector — the canonical limited-beta package for the licensed staging cloud service.",
   "skills": "./skills/",
   "apps": "./.app.json"

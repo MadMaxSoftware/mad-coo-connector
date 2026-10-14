@@ -1,10 +1,17 @@
 {
   "name": "MAD COO Staging Preview",
-  "version": "0.3.2-beta.2",
+  "version": "0.3.3-beta.1",
   "transport": "streamable_http",
   "url": "https://mad-coo-staging-mcp-339642811666.australia-southeast1.run.app/mcp",
   "authentication": "oauth",
   "tools": [
+    "route_owner_request",
+    "review_commercial_thread",
+    "review_supplier_pack",
+    "review_tenant_setup",
+    "prepare_rfq_quote",
+    "review_technical_evidence",
+    "learning_review",
     "get_operating_context",
     "probe_expected_plan_mismatch",
     "review_customer_order",
