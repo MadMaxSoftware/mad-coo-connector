@@ -1,0 +1,8 @@
+{
+  "apps": {
+    "mad-coo-staging-preview": {
+      "id": "plugin_asdk_app_6ac0c517ff2081919ea59103a11188ed",
+      "required": true
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mad-coo-trusted-beta",
-  "version": "0.3.2-beta.1",
+  "version": "0.3.2-beta.2",
   "description": "MAD COO Staging Preview thin connector for the licensed staging cloud service.",
   "author": {
     "name": "MadMaxSoftware"
@@ -9,6 +9,7 @@
   "repository": "https://github.com/MadMaxSoftware/mad-coo-connector",
   "extensions": {
     "com.openai": {
+      "apps": "./.app.json",
       "interface": {
         "displayName": "MAD COO Staging Preview",
         "shortDescription": "Private beta access to the licensed MAD COO staging service.",

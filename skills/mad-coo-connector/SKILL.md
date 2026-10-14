@@ -11,7 +11,7 @@ schedule proposals, readiness status, and the admin-only non-mutating
 expected-plan mismatch probe when the service exposes it.
 
 Package identity: **MAD COO Staging Preview** (connector package
-`mad-coo-trusted-beta`, version `0.3.2-beta.1`). Install this exact package only
+`mad-coo-trusted-beta`, version `0.3.2-beta.2`). Install this exact package only
 from the public `MadMaxSoftware/mad-coo-connector` marketplace. Max and every
 limited-beta tester use this same package and the same staging MCP endpoint;
 there is no owner-only or stale-plugin compatibility path.
