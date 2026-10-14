@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "mad-coo-staging-preview": {
+      "type": "streamable-http",
+      "url": "https://mad-coo-staging-mcp-339642811666.australia-southeast1.run.app/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": {
+              "mode": "provided",
+              "clientId": "ywSRn58Klu70AjQnV4U2oU6axvYsoVHW",
+              "tokenEndpointAuthMethod": "none"
+            },
+            "authorizationServerBase": "https://mad-coo-staging.au.auth0.com/",
+            "resource": "https://mad-coo-staging-mcp-339642811666.australia-southeast1.run.app/mcp",
+            "baseScopes": [
+              "mcp:tools"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

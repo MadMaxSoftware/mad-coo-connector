@@ -1,5 +1,5 @@
 {
   "name": "mad-coo-trusted-beta",
-  "version": "0.3.1-beta.1",
-  "description": "MAD COO Staging Preview thin connector — routes to the licensed cloud MCP only. Refresh this package when the visible version lags the cloud service."
+  "version": "0.3.2-beta.1",
+  "description": "MAD COO Staging Preview thin connector — the canonical limited-beta package for the licensed staging cloud service."
 }

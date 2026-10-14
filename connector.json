@@ -1,7 +1,8 @@
 {
   "name": "MAD COO Staging Preview",
+  "version": "0.3.2-beta.1",
   "transport": "streamable_http",
-  "url": "${MAD_COO_MCP_URL}/mcp",
+  "url": "https://mad-coo-staging-mcp-339642811666.australia-southeast1.run.app/mcp",
   "authentication": "oauth",
   "tools": [
     "get_operating_context",
