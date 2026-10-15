@@ -1,7 +1,7 @@
 {
   "name": "mad-coo-trusted-beta",
-  "version": "0.3.4-beta.1",
-  "description": "MAD COO Staging Preview thin connector — the canonical limited-beta package for the licensed staging cloud service.",
+  "version": "0.3.5-beta.1",
+  "description": "MAD COO Staging Preview thin connector with approval-gated Gmail-assisted commercial-email review.",
   "skills": "./skills/",
   "apps": "./.app.json"
 }
